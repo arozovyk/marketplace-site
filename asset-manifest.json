@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/marketplace-site/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/marketplace-site/static/js/main.d699b759.chunk.js",
+    "main.js.map": "/marketplace-site/static/js/main.d699b759.chunk.js.map",
+    "runtime-main.js": "/marketplace-site/static/js/runtime-main.53aedac3.js",
+    "runtime-main.js.map": "/marketplace-site/static/js/runtime-main.53aedac3.js.map",
+    "static/css/2.046c52e4.chunk.css": "/marketplace-site/static/css/2.046c52e4.chunk.css",
+    "static/js/2.45d2400b.chunk.js": "/marketplace-site/static/js/2.45d2400b.chunk.js",
+    "static/js/2.45d2400b.chunk.js.map": "/marketplace-site/static/js/2.45d2400b.chunk.js.map",
+    "static/js/3.a31bf089.chunk.js": "/marketplace-site/static/js/3.a31bf089.chunk.js",
+    "static/js/3.a31bf089.chunk.js.map": "/marketplace-site/static/js/3.a31bf089.chunk.js.map",
+    "index.html": "/marketplace-site/index.html",
+    "static/css/2.046c52e4.chunk.css.map": "/marketplace-site/static/css/2.046c52e4.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/marketplace-site/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.45d2400b.chunk.js.LICENSE.txt": "/marketplace-site/static/js/2.45d2400b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53aedac3.js",
+    "static/css/2.046c52e4.chunk.css",
+    "static/js/2.45d2400b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d699b759.chunk.js"
+  ]
+}
